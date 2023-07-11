@@ -233,8 +233,8 @@ font-family: Lato;
 font-size: 48px;
 font-style: normal;
 font-weight: 800;
-
-margin: 128px 832px 24px 831px;
+display: flex;
+margin-left: 850px;
 
 }
 .f-p{
@@ -298,17 +298,48 @@ margin-top: 10px;
     display: flex;
     
     
+    
 }
 .emm{
     border-radius: 8px;
 background: #FFF;
+display: block;
 
 flex-shrink: 0;
 padding: 23px 513px 22px 22px;
 margin-top: 48px;
 
+
 }
 #devanjona{
     margin-left: 47px;
     margin-top: 48px;
+}
+.online{
+    border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+display: block;
+margin: 128px 240px;
+}
+.o-head{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+#jo{
+   margin-left:  300px;
+}
+#bl{
+    margin-left: 300px;
+}
+#ey{
+    margin-left: 300px;
+    margin-bottom: 100px;
+}
+.fozi{
+    color: #FFFFFF;
 }
