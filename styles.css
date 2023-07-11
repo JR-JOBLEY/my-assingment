@@ -224,7 +224,7 @@ margin: 24px 663px 48px 663px;
 height: 449px;
 flex-shrink: 0;
 background: #111010;
-margin-top: 128px;
+
 }
 .f-h{
     
@@ -258,15 +258,17 @@ line-height: normal;
 margin: 32px 783px 128px 784px;
 }
 .f-desc{
-    margin-top: 128px;
+    padding-top: 128px;
+    
 }
 .latest-deal{
     border-radius: 8px;
-background: url(<path-to-image>), lightgray 0px -203.444px / 100% 213.755% no-repeat;
-margin: 128px 240px ;
+background-image: url("./Flower-Asset\ copy/Rectangle-9.png");
+background-repeat: no-repeat;
+margin: 128px 240px;
 flex-shrink: 0;
 padding: 122px 318px 121px 287px;
-
+margin-bottom: 128px;
 
 }
 .l-head{
@@ -294,6 +296,19 @@ margin-top: 10px;
 }
 .email-section{
     display: flex;
-     ;
     
+    
+}
+.emm{
+    border-radius: 8px;
+background: #FFF;
+
+flex-shrink: 0;
+padding: 23px 513px 22px 22px;
+margin-top: 48px;
+
+}
+#devanjona{
+    margin-left: 47px;
+    margin-top: 48px;
 }
